@@ -1,0 +1,96 @@
+main, body, header {
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    background-color: #EAD7BB;
+    min-height: 100vh;
+}
+
+body {
+    background-color: #EAD7BB;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+}
+
+header {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 85px;
+    color: #113946;
+
+    height: 100px;
+    width: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+
+
+.heading {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 45px;
+    color: #BCA37F;
+    background-color: #113946;
+    padding: 10px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.articles {
+    background-color: #113946;
+    color: #BCA37F;
+    padding: 10px;
+    font-family: 'Istok Web', sans-serif;
+    font-size: 15px;
+}
+
+.catalog_body {
+    background-color: yellow;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+a {
+    color: #BCA37F;
+    text-decoration: none;
+    font-size: 25px;
+    margin-bottom: 10px;
+    height: 400px;
+    width: 350px;
+}
+
+.a1 {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 45px;
+    color: #113946;
+    text-decoration: none;
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin: 0px
+}
+
+h3 {
+    margin: 0px;
+    margin-bottom: 75px;
+    width: 250px;
+    height: 100px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 400px;
+    align-items: center;
+}
