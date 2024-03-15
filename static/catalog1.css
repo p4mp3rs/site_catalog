@@ -1,0 +1,16 @@
+body {
+    background-color: #EAD7BB;
+}
+
+.name {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 35px;
+    margin: 10px;
+    margin-bottom: 55px;
+}
+
+.desc {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 25px;
+    margin: 10px;
+}
